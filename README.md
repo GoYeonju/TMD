@@ -5,6 +5,9 @@ This file was created by Yeon Ju Go with the advice of professor Young Min Rhee 
 This file contains code that calculates the rotation angle of a helix, the crossing angle between two helices, and the difference between the N-terminus and the C-terminus.
 
 Execution order
+
+All files including test100.gro should be downloaded.
+
 1. make
 2. csh auto.sh
 3. python fes.py
